@@ -7,7 +7,7 @@ Opervoters is a free, open source framework that allows to write polls systems b
 
 How it works?
 -------------
-The vote are anonymous, each mobile device can vote once. From the same device you can change your mind, but you cannot vote twice. If the voter allows it, the vote can be shared on Twitter or Facebook, to spread the word about the poll in progress.
+The votes are anonymous, each mobile device can vote once. From the same device you can change your mind, but you cannot vote twice. If the voter allows it, the vote can be shared on Twitter or Facebook, to spread the word about the poll in progress.
 
 The framework is composed by a server library and one client library per each platform supported:
 
