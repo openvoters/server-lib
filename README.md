@@ -13,3 +13,5 @@ The framework is composed by a server library and one client library per each pl
 
 - server side, the system offers a set of REST APIs and some pre-cooked web views to manage the votes database and to quickly get the poll's outlook.
 - client side, the libraries allows to quickly build an app for the poll you want to implement.
+
+For more details take a look at wiki pages: https://github.com/openvoters/openvoters.org/wiki
